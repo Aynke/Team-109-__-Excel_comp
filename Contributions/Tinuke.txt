@@ -1,1 +1,5 @@
-work done by tinuke
+Supervised the design team
+created the dashboard screens
+created userflow, idea prioritization matrix and persona
+prototyped taskflows on figma
+created presentation slides
